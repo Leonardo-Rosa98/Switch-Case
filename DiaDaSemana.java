@@ -27,8 +27,7 @@ public interface DiaDaSemana {
                 System.out.println("Domingo");
                 break;
             default:
-                System.out.println("Opão inválida!");  
-                break;     
+                System.out.println("Opão inválida!");       
         }
     }
 }
